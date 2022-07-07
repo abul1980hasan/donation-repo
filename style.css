@@ -80,3 +80,10 @@ body{
     font-size: 12px;
     
 }
+.flex-continar-content{
+    display: flex;
+
+}
+.flex-continar-content>div{
+    padding: 70px;
+}
