@@ -1,0 +1,82 @@
+body{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.header{
+    background-image: url("image/donation3.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+
+}
+.header-text{
+    position: absolute;
+    color: white;
+    margin-top: 100px;
+    margin-left: 250px;
+    
+}
+.donate-button{
+    text-decoration: none;
+    margin-top: 320px;
+    margin-left: 420px;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.donate-text{
+    text-align: center;
+    margin-top: 70px;
+}
+.flex-continar{
+    display: flex;
+    
+    margin-left: 250px;
+}
+.flex-continar>div{
+     width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+    
+}
+#other-ammont{
+    margin-top: 30px;
+    margin-left: 400px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 70px;
+    margin-left: 400px;
+
+}
+.donate-plane{
+    text-align: center;
+    margin-top: 100px;
+
+}
+.footer{
+    text-align: center;
+    color: tomato;
+    background-color: black;
+    padding: 10px;
+    
+
+}
+.footer p{
+    color:white;
+    font-size: 12px;
+    
+}
